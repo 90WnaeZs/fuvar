@@ -1,0 +1,2 @@
+# fuvar
+központi feladat - fuvar
